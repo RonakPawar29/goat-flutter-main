@@ -1,0 +1,1 @@
+ E:\\goat-flutter-main\\.dart_tool\\flutter_build\\f03e08bc1014867d1288e65c7dcded04\\native_assets.yaml: 
